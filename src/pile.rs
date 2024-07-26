@@ -1,0 +1,3 @@
+struct Pile {
+  topCard: Card
+}
